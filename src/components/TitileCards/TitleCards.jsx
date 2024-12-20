@@ -13,7 +13,7 @@ const TitleCards = ({ title, category }) => {
     headers: {
       accept: "application/json",
       Authorization:
-        "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMzU5MTg0ZTA3YWVlMDRlN2RiYTJkOGJjMmY5ZWY3OSIsIm5iZiI6MTczNDcyNjA4OS4zOTkwMDAyLCJzdWIiOiI2NzY1ZDFjOTkxOTI4N2VmNTM5MGUxMzIiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.9QZ4lGT3_4XPagzlLdFj0nd6UbZfNOIS0qlYNZLEk-Q",
+        "Bearer #######################################################################################################################################################################",
     },
   };
 
