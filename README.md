@@ -46,7 +46,7 @@ A fully-functional Netflix clone built from scratch using HTML, CSS, JavaScript,
 2. Generate an API key from your TMDB account.
 3. Create a `.env` file in the root directory and add your TMDB API key:
     ```env
-    REACT_APP_TMDB_API_KEY=your_api_key
+    REACT_APP_TMDB_API_KEY = your_api_key
     ```
 
 ## Screenshots
